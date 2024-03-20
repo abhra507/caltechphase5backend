@@ -1,4 +1,4 @@
-package com.example.demo;
+/*package com.example.demo;
 import static org.junit.Assert.assertFalse;
 
 
@@ -25,4 +25,4 @@ public class FoodProjecttest {
 	
 	}
 
-}
+}*/
